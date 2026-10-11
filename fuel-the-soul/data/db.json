@@ -1,0 +1,316 @@
+{
+  "settings": {
+    "brandName": "Fuel The Soul",
+    "announcement": {
+      "enabled": true,
+      "text": "Free shipping above ₹1,499. Use code FUEL10 for 10% off."
+    },
+    "hero": {
+      "headline": "WEAR YOUR MOOD.\nLIVE YOURS.",
+      "sub": "Not just a brand, it's a lifestyle. Oversized, raglan and acid-wash tees, proudly made in India.",
+      "cta": "Shop the drop"
+    },
+    "marquee": "New arrivals\n180 GSM premium cotton\nOversized comfort fit\nLimited drops, don't miss out\nProudly made in India",
+    "about": "Fuel The Soul started as a feeling: clothes should say something about the day you're having. Every tee is cut oversized, printed to last and made in India.",
+    "freeShippingAbove": 1499,
+    "shippingFee": 79,
+    "whatsapp": "918626065642",
+    "instagram": "https://www.instagram.com/fuelthesoul.in/",
+    "email": "hello@fuelthesoul.in"
+  },
+  "products": [
+    {
+      "id": "p_obsession",
+      "name": "Obsession Raglan Tee",
+      "category": "Raglan",
+      "price": 899,
+      "mrp": 1299,
+      "description": "Black-sleeve raglan with the Obsession script print. 180 GSM premium cotton, oversized fit, made for all-day comfort.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#ebe8df",
+      "tag": "Bestseller",
+      "inStock": true,
+      "visible": true,
+      "featured": true,
+      "createdAt": "2026-10-01T10:00:00.000Z"
+    },
+    {
+      "id": "p_hush",
+      "name": "Hush Oversized Tee",
+      "category": "Oversized",
+      "price": 999,
+      "mrp": 1399,
+      "description": "Red oversized tee with the Hush graphic. Premium cotton, drop shoulder, relaxed through the body.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#c8201c",
+      "tag": "New",
+      "inStock": true,
+      "visible": true,
+      "featured": true,
+      "createdAt": "2026-10-02T10:00:00.000Z"
+    },
+    {
+      "id": "p_darkness",
+      "name": "Darkness Acid Wash Tee",
+      "category": "Acid Wash",
+      "price": 1099,
+      "mrp": 1499,
+      "description": "Washed-out charcoal with the Darkness print in red and white. Oversized fit, heavyweight feel.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [],
+      "color": "#2e2e2c",
+      "tag": "New",
+      "inStock": true,
+      "visible": true,
+      "featured": true,
+      "createdAt": "2026-10-03T10:00:00.000Z"
+    },
+    {
+      "id": "p_coastal",
+      "name": "The Coastal Clubs Raglan",
+      "category": "Raglan",
+      "price": 899,
+      "mrp": 1299,
+      "description": "Cream body, olive sleeves and a palm-tree crest. 180 GSM cotton, oversized comfort fit.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#e6e3d6",
+      "tag": "",
+      "inStock": true,
+      "visible": true,
+      "featured": false,
+      "createdAt": "2026-09-28T10:00:00.000Z"
+    },
+    {
+      "id": "p_wander",
+      "name": "Wander Raglan Tee",
+      "category": "Raglan",
+      "price": 899,
+      "mrp": 1299,
+      "description": "Explore more, live fully. Olive-sleeve raglan with the mountain-trail print. Limited drop.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#59602f",
+      "tag": "Limited",
+      "inStock": true,
+      "visible": true,
+      "featured": false,
+      "createdAt": "2026-09-27T10:00:00.000Z"
+    },
+    {
+      "id": "p_dominate",
+      "name": "Dominate Tee",
+      "category": "Graphic Tees",
+      "price": 799,
+      "mrp": 1099,
+      "description": "Clean white tee with the Dominate print. Soft premium cotton for gym days and every other day.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#f4f4f0",
+      "tag": "",
+      "inStock": true,
+      "visible": true,
+      "featured": false,
+      "createdAt": "2026-09-20T10:00:00.000Z"
+    },
+    {
+      "id": "p_guts",
+      "name": "Guts Acid Wash Tee",
+      "category": "Acid Wash",
+      "price": 1099,
+      "mrp": 1499,
+      "description": "Acid-wash black with the Guts eye print and quote. Oversized fit.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "images": [],
+      "color": "#3a3a38",
+      "tag": "Bestseller",
+      "inStock": true,
+      "visible": true,
+      "featured": false,
+      "createdAt": "2026-09-18T10:00:00.000Z"
+    },
+    {
+      "id": "p_sukuna",
+      "name": "Sukuna Oversized Tee",
+      "category": "Anime",
+      "price": 999,
+      "mrp": 1399,
+      "description": "Navy oversized tee with the Jujutsu Kaisen Sukuna graphic. Premium cotton, drop shoulder.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#1f3350",
+      "tag": "",
+      "inStock": false,
+      "visible": true,
+      "featured": false,
+      "createdAt": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "id": "p_cars",
+      "name": "We Just Pray For Cars Tee",
+      "category": "Graphic Tees",
+      "price": 799,
+      "mrp": 1099,
+      "description": "White tee for the ones who pray for cars. Soft cotton, relaxed fit, sleeve branding.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [],
+      "color": "#f1f1ee",
+      "tag": "",
+      "inStock": true,
+      "visible": true,
+      "featured": false,
+      "createdAt": "2026-09-05T10:00:00.000Z"
+    }
+  ],
+  "offers": [
+    {
+      "id": "o_fuel10",
+      "title": "10% off your first order",
+      "subtitle": "Applies to everything in the bag. Stack it with the sale prices.",
+      "code": "FUEL10",
+      "discountType": "percent",
+      "value": 10,
+      "minOrder": 999,
+      "startsAt": "",
+      "endsAt": "2026-12-31T18:29:00.000Z",
+      "active": true,
+      "showOnSite": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "FTS-1001",
+      "items": [
+        {
+          "id": "p_darkness",
+          "name": "Darkness Acid Wash Tee",
+          "size": "M",
+          "qty": 1,
+          "price": 1099,
+          "image": ""
+        }
+      ],
+      "subtotal": 1099,
+      "discount": 0,
+      "shipping": 79,
+      "total": 1178,
+      "coupon": null,
+      "customer": {
+        "name": "Sahil Patkar",
+        "phone": "7045503756",
+        "email": "sahilpatkar42@gmail.com",
+        "address": "xyz",
+        "city": "kalyan",
+        "pincode": "421301"
+      },
+      "payment": "COD",
+      "status": "Cancelled",
+      "createdAt": "2026-10-11T18:50:22.115Z"
+    },
+    {
+      "id": "FTS-1002",
+      "items": [
+        {
+          "id": "p_darkness",
+          "name": "Darkness Acid Wash Tee",
+          "size": "M",
+          "qty": 3,
+          "price": 1099,
+          "image": ""
+        }
+      ],
+      "subtotal": 3297,
+      "discount": 0,
+      "shipping": 0,
+      "total": 3297,
+      "coupon": null,
+      "customer": {
+        "name": "Sahil Patkar",
+        "phone": "7045503756",
+        "email": "sahilpatkar42@gmail.com",
+        "address": "xyz",
+        "city": "kalyan",
+        "pincode": "421301"
+      },
+      "payment": "COD",
+      "status": "Cancelled",
+      "createdAt": "2026-10-11T19:43:43.342Z"
+    },
+    {
+      "id": "FTS-1003",
+      "items": [
+        {
+          "id": "p_darkness",
+          "name": "Darkness Acid Wash Tee",
+          "size": "M",
+          "qty": 1,
+          "price": 1099,
+          "image": ""
+        }
+      ],
+      "subtotal": 1099,
+      "discount": 0,
+      "shipping": 79,
+      "total": 1178,
+      "coupon": null,
+      "customer": {
+        "name": "Sahil Patkar",
+        "phone": "7045503756",
+        "email": "sahilpatkar42@gmail.com",
+        "address": "xyz",
+        "city": "kalyan",
+        "pincode": "421301"
+      },
+      "payment": "WhatsApp",
+      "status": "Cancelled",
+      "createdAt": "2026-10-11T19:59:03.925Z"
+    }
+  ]
+}
